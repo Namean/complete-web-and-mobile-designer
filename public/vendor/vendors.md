@@ -1,0 +1,6 @@
+# Vendors
+
+
+- Ionicons
+- Flaticons
+- Google
