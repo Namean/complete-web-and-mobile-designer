@@ -1,0 +1,29 @@
+resources
+introduction
+plans and signup
+where to use figma
+figma ui - structure
+figma ui - files
+figma ui - toolbar
+figma ui - Left sidebar
+figma ui - Right sidebar
+shapes and tools - Frames 
+shapes and tools - Groups 
+shapes and tools - Basic Shapes and Boolean Operations
+shapes and tools - Images
+Designing in Figma - Images 
+Designing in Figma - Getting Started with Text
+Designing in Figma - Constraints 
+Designing in Figma - Using Auto Layout
+Designing in Figma - Auto Layout proeprties
+Resources and Collaboration - Community Files 
+Resources and Collaboration - Community Plugins
+Resources and Collaboration - Sharing and Comments
+Project - What we are going to build 
+Project - Creating a Logo Using Basic Shapes
+Project - Auto Layout Buttons 
+Project - Creating a Responsive Navigation
+Project - Responsive Text 
+Project - Imagery Gradients 
+Project - Strokes and Shapes 
+Project - Layout and Responsiveness 

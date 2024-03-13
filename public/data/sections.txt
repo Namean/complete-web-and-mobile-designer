@@ -1,0 +1,32 @@
+introduction
+Sketching
+Inspiration
+Figma Basics
+User Flows
+Sitemaps
+Wireframes
+Prototyping
+Feedback
+Spacing and Grids
+Typography
+Color
+Imagery and Iconography
+Forms and UI Elements
+Accessibility
+Design Patterns
+Mobile Design
+Visual Style and Exploration
+Motion and Microinteractions
+Design Systems
+Execution
+Working with a Client Revisited
+Where to Go From Here?
+Web Portfolio
+From Figma to Website: Building Our Landing Page
+Extra: How the Internet Works
+Extra: History Of The Web
+Extra: HTML 5
+Extra CSS 3
+Extra: Bootstrap, Templates, And Building Your Startup Landing Page
+Extra: CSS Grid + CSS Layout
+BONUS SECTION
